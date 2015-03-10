@@ -2,8 +2,9 @@
 
 "Visual" implementation of traceroute. Traces the geographical location of each node and generates KML files readable by Google Earth/Maps, Marble or any other KML reader.
 
+Each node is probed multiple times, giving a more accurate route than traceroute.
 
-### python vtracert.py -h
+#### python vtracert.py -h
 ```
       _                       _   
  __ _| |_ _ _ __ _ __ ___ _ _| |_ 
