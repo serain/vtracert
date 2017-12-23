@@ -1,3 +1,5 @@
+# Old stuff I wrote at Uni - kept for entertainement
+
 ## vtracert
 
 "Visual" implementation of traceroute. Traces the geographical location of each node and generates KML files readable by Google Earth/Maps, Marble or any other KML reader.
